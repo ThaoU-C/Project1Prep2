@@ -4,5 +4,4 @@ Frech Rose: #EB4D8F
 Champagne Pink: #E5D4CE
 Jet: #403E3E
 
-
-Font: 
+Font: Assistant Family
